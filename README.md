@@ -1,7 +1,6 @@
 
 
 <!--
-### Hi there 👋
 **walliesdesigns/walliesdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+Welcome to my Github Page. 
+
+📫 How to reach me: 
+You can Reach out to me via discord. My Discord Tag is Wallies_Gaming#0001.
+You can also email on info@walliesdevelopments.tech
 [![Wallies's GitHub stats](https://github-readme-stats.vercel.app/api?username=walliesdesigns&theme=react)](https://github.com/walliesdesigns)
