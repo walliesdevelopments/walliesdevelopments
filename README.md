@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Welcome to my Github Page. 
 
 📫 How to reach me: 
-/n You can Reach out to me via discord. My Discord Tag is Wallies_Gaming#0001.
-/n You can also email on info@walliesdevelopments.tech
+\n You can Reach out to me via discord. My Discord Tag is Wallies_Gaming#0001.
+\n You can also email on info@walliesdevelopments.tech
 
 
 [![Wallies's GitHub stats](https://github-readme-stats.vercel.app/api?username=walliesdesigns&theme=react)](https://github.com/walliesdesigns)
