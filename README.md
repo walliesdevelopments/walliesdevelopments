@@ -21,7 +21,7 @@ Welcome to my Github Page.
 
 📫 How to reach me: 
 You can Reach out to me via discord. My Discord Tag is Wallies_Gaming#0001.
-You can also email on info@walliesdevelopments.tech
+You can also email on wallie2001@yahoo.com
 
 
-[![Wallies's GitHub stats](https://github-readme-stats.vercel.app/api?username=walliesdesigns&theme=react)](https://github.com/walliesdesigns)
+[![Wallies's GitHub stats](https://github-readme-stats.vercel.app/api?username=walliesdevelopments&theme=react)](https://github.com/walliesdevelopments)
